@@ -1,2 +1,2 @@
 # Locate-Phone
-Object detection and localization to find a phone lying on the floor using a ConvNet.
+Object detection and localization to find a phone lying on the floor using a 4-layer ConvNet built from scratch.
